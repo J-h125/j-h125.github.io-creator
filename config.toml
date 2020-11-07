@@ -1,0 +1,4 @@
+baseURL = "http://www.wangjiahao.top/"
+languageCode = "zh-Hans"
+title = "My New BLOG"
+theme = "ananke"
